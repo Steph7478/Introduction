@@ -9,7 +9,6 @@
 ---
 
 <p>
-<img align="right" src=".github/me.svg" width="350px" />
 
 <h2> Hello! 👋 Welcome to my profile </h2>
 
