@@ -1,51 +1,82 @@
-# Stephanie Gurgel 👩‍💻
+<h1 align="center">✨ Stephanie Gurgel ✨</h1>
+<h3 align="center">Frontend Developer | React, TypeScript & UI Lover</h3>
 
-<a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://gurgelsportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfólio-12C2E9?style=for-the-badge&logo=&logoColor=white" /></a>
-
-<!-- <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<br/>
 
 ---
 
-<p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-<h2> Hello! 👋 Welcome to my profile </h2>
+<h2>📝 <strong>About Me</strong></h2>
 
-<b>Motivated frontend developer actively seeking an internship to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences. </b>
+Motivated frontend developer actively seeking an internship to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
 
-</p>
+</td>
+    <td valign="top" width="40%">
+
+<h2>📫 <strong>Contact Me</strong></h2>
+
+<a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+<a href="https://gurgelsportfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-12C2E9?style=for-the-badge&logo=&logoColor=white" />
+</a>
+
+</td>
+  </tr>
+</table>
 
 ---
 
-### Tools and Technologies
+<br/>
 
-<p float="left">
+## 🚀 **Technologies I Use**
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  
-  <img src="https://img.shields.io/badge/TypeScript-2376c6?style=for-the-badge&logo=typescript&logoColor=white" />
+### 🧠 **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&color=4F4F4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&color=4F4F4F)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff&color=4F4F4F)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff&color=4F4F4F)
 
-</p>
+### ⚛️ **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=4F4F4F)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff&color=4F4F4F)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF6C00?style=for-the-badge&logo=framer&logoColor=fff&color=4F4F4F)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff&color=4F4F4F)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff&color=4F4F4F)
+
+### 🧩 **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&color=4F4F4F)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff&color=4F4F4F)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&color=4F4F4F)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff&color=4F4F4F)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&color=4F4F4F)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-ef4444?style=for-the-badge&logo=security&logoColor=fff&color=4F4F4F)
+
+### 🧰 **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&color=4F4F4F)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&color=4F4F4F)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff&color=4F4F4F)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff&color=4F4F4F)
+
+### 🌐 **APIs**
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=fff&color=4F4F4F)
 
 ---
 
+## 📈 **Github Statistics**:
 <details open>
-  <summary>📈 <b>Github Statistics</b>:</summary>
-  
-  <br>
-        
-  <div align="left"> 
-     <p>
+  <summary>Click here to expand</summary>
+  <div align="left">
+    <p>
       <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Steph7478&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </p>
     <p>
       <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=compact&theme=tokyonight">
     </p>
-
-</div>
-
-<br>
+  </div>
 </details>
