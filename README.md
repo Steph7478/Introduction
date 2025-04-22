@@ -11,7 +11,7 @@
 
 <h2>📝 <strong>About Me</strong></h2>
 
-Motivated frontend developer actively seeking an internship to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
+Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
 
 </td>
     <td valign="top" width="40%">
@@ -55,7 +55,6 @@ Motivated frontend developer actively seeking an internship to apply and deepen 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&color=4F4F4F)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff&color=4F4F4F)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&color=4F4F4F)
-![bcryptjs](https://img.shields.io/badge/bcryptjs-ef4444?style=for-the-badge&logo=security&logoColor=fff&color=4F4F4F)
 
 ### 🧰 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&color=4F4F4F)
@@ -72,11 +71,11 @@ Motivated frontend developer actively seeking an internship to apply and deepen 
 <details open>
   <summary>Click here to expand</summary>
   <div align="left">
-    <p>
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Steph7478&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+     <p>
+      <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=compact&theme=tokyonight">
     </p>
     <p>
-      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=compact&theme=tokyonight">
+      <img width="450px" align="left" src="https://streak-stats.demolab.com?user=Steph7478&theme=tokyonight&hide_border=true"/>
     </p>
   </div>
 </details>
