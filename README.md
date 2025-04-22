@@ -1,40 +1,28 @@
-<h1 align="center">✨ Stephanie Gurgel ✨</h1>
-<h3 align="center">Frontend Developer | React, TypeScript & UI Lover</h3>
+<h1 align="center">✨ Stephanie Gurgel ✨
+</h1>
 
-<br/>
-
----
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-<h2>📝 <strong>About Me</strong></h2>
-
-Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
-
-</td>
-    <td valign="top" width="40%">
-
-<h2>📫 <strong>Contact Me</strong></h2>
-
-<a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br/>
+<h3 align="center">Frontend Developer | React, TypeScript & UI Lover <br> <br><a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
 <a href="https://gurgelsportfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-12C2E9?style=for-the-badge&logo=&logoColor=white" />
-</a>
-
-</td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/Port%C3%B3lio-12C2E9?style=for-the-badge&logo=&logoColor=white" align="center"/>
+</a></h3>
 
 ---
 
-<br/>
+<img src=".github/me.png" width="300px" align="right" />
 
-## 🚀 **Technologies I Use**
+<h3> <br> 📝 <strong>About Me</strong></h3>
+<br>
+Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
+<br>
+<br>
+<br>
+</p>
+
+
+---
+
+<h2 align=center>🚀 Technologies I Use</h2>
 
 ### 🧠 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&color=4F4F4F)
@@ -67,7 +55,7 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 
 ---
 
-## 📈 **Github Statistics**:
+<h2 align=center>📈 Github Statistics</h2>
 <details open>
   <summary>Click here to expand</summary>
   <div align="left">
