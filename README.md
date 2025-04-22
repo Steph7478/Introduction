@@ -74,8 +74,5 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
      <p>
       <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=compact&theme=tokyonight">
     </p>
-    <p>
-      <img width="450px" align="left" src="https://streak-stats.demolab.com?user=Steph7478&theme=tokyonight&hide_border=true"/>
-    </p>
   </div>
 </details>
