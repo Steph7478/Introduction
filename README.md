@@ -17,12 +17,13 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 <br>
 <br>
 <br>
+<br>
 </p>
 
 
 ---
 
-<h2 align=center>🚀 Technologies I Use</h2>
+<h2 align=center>🚀 Technologies I Use <br><br></h2>
 
 ### 🧠 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&color=4F4F4F)
@@ -55,7 +56,7 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 
 ---
 
-<h2 align=center>📈 Github Statistics</h2>
+<h2 align=center>📈 Github Statistics <br><br></h2>
 <details open>
   <summary>Click here to expand</summary>
   <div align="left">
